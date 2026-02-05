@@ -214,7 +214,11 @@ public class Student {
 ```
 
 ## OUTPUT
+### DB :
+<img src="./imgs/Screenshot (16).png" height=400>
 
+### APP :
+<img src="./imgs/image.png" height=400>
 
 
 
